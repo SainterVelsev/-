@@ -1,0 +1,1 @@
+grant select, insert, update, delete on dbo.Сотрудник to Administrator_Shift
